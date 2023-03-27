@@ -1,6 +1,6 @@
 # BUZZER CONTROLLER
 
-### In this lab session, you are required to create a buzzer controller to simulate a door bell using Arduino and other circuit elements. This controller will be managed by global variables and a push down button. The global variables are given below.
+### It is a buzzer controller to simulate a door bell using Arduino and other circuit elements. This controller will be managed by global variables and a push down button. The global variables are given below.
 
 ### int SOUND_DURATION = 500; // This variable is for the main time duration for every sound step in sound string. 500 is for 500 milliseconds.
 
