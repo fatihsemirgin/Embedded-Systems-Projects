@@ -14,37 +14,4 @@
 
 ### Assuming the global variables that are given above, resulting LCD screen of these variable values are given below.
 
-**LCD SCREEN AT TIME 0 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** T h i s t e x t i s f o r
-**01** A B C D E F G H
-
-**LCD SCREEN AT TIME 1000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** h i s t e x t i s f o r
-**01** B C D E F G H A
-
-**LCD SCREEN AT TIME 2000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** i s t e x t i s f o r r
-**01** C D E F G H A B
-
-**LCD SCREEN AT TIME 3000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** s t e x t i s f o r r o
-**01** D E F G H A B C
-
-**LCD SCREEN AT TIME 4000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** t e x t i s f o r r o w
-**01** E F G H A B C D
-
-**LCD SCREEN AT TIME 5000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** t e x t i s f o r r o w
-**01** E F G H A B C D
-
-**LCD SCREEN AT TIME 6000 (MILLISECONDS):
-00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
-00** e x t i s f o r r o w 0
-**01** F G H A B C D E
+![Ekran görüntüsü 2023-03-27 145013](https://user-images.githubusercontent.com/109742155/227933525-dc862e21-7122-4c8f-a3f4-f41012c3be53.png)
